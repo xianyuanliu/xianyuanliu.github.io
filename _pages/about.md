@@ -7,7 +7,7 @@ subtitle: Assistant Head of AI Research Engineering, and Senior AI Research Engi
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>136, Regent Court</p>
     <p>211 Portobello</p>
