@@ -19,14 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-the Assistant Head of AI Research Engineering and Senior AI Research Engineer at the University of Sheffield.
-
-
 I am a Senior AI Research Engineer at the [Department of Computer Science](https://www.sheffield.ac.uk/dcs/), and Assistant Head of AI research engineering at [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), [University of Sheffield](https://www.sheffield.ac.uk/).
 
 My current research focuses on developing machine learning methods and tools for healthcare and multi-modal learning. I am a co-founder and principal developer of the open-source library [PyKale](https://github.com/pykale/pykale), offering a spectrum of accessible multi-modal and transfer learning algorithms, particularly on video domain adaptation.
 
-I received the Ph.D. degree in Signal and Information Processing from the University of Chinese Academy of Sciences, China, in 2023. Prior to that, I received my B.Eng. degree in Measuring Control Technology and Instruments from Southeast University, China, in 2016. I was a visiting researcher with the Department of Computer Science, the University of Sheffield, UK, from 2019 to 2021.
+I received the Ph.D. degree in Signal and Information Processing from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), China, in 2023. Prior to that, I received my B.Eng. degree in Measuring Control Technology and Instruments from [Southeast University](https://www.seu.edu.cn/english/), China, in 2016. I was a visiting researcher with the Department of Computer Science, University of Sheffield, UK, from 2019 to 2021.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
