@@ -7,7 +7,9 @@
       # value: 14th March 1879
     - name: Email
       value: <a href="mailto:xianyuan.liu@sheffield.ac.uk">xianyuan.liu@sheffield.ac.uk</a>
-    - name: Research Interests
+    - name: Address
+      value: Regent Court, 211 Portobello, Sheffield, UK, S1 4DP
+    - name: Interests
       value: Domain Adaptation, Multi-modal Learning, Machine Learning for Healthcare, AI Engnineering
     - name: Languages
       value: Chinese, English
