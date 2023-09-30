@@ -26,7 +26,7 @@
       #       - Sub-description 1.
       #       - Sub-description 2.
     - title: BEng in Measuring Control Technology and Instruments
-      institution: Southeast University
+      institution: Southeast University, Nanjing, China
       year: 2012 - 2016
       # description:
       #   - Description 1.
@@ -59,7 +59,7 @@
       year: 2020-now
       description: A Python library for knowledge-aware machine learning from multiple sources, particularly from multiple modalities for multimodal learning and from multiple domains for transfer learning.
 
-- title: Achievements
+- title: Funding and Awards
   type: time_table
   contents:
     - year: 2019
@@ -67,10 +67,10 @@
         - China Scholarship Council Scholarship, State Scholarship Fund
     - year: 2018
       items: 
-        - Excellent Student Leader, University of Chinese Academy of Sciences
+        - Excellent Student Leader Awards, University of Chinese Academy of Sciences
     - year: 2018
       items: 
-        - Triple A Student, University of Chinese Academy of Sciences
+        - Triple A Student Awards, University of Chinese Academy of Sciences
     
 # - title: Academic Interests
 #   type: nested_list
