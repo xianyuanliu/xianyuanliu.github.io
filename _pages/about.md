@@ -5,7 +5,7 @@ permalink: /
 subtitle: Senior AI Research Engineer, @<a href='https://www.sheffield.ac.uk'>The University of Sheffield</a>.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Senior AI Research Engineer at the [Department of Computer Science](https://www.sheffield.ac.uk/dcs/), and Assistant Head of AI research engineering at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), [University of Sheffield](https://www.sheffield.ac.uk/).
+I am a Senior AI Research Engineer at the [Department of Computer Science](https://www.sheffield.ac.uk/dcs/), and Assistant Head of AI Research Engineering at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), [University of Sheffield](https://www.sheffield.ac.uk/).
 
 My current research focuses on developing machine learning methods and tools for healthcare and multi-modal learning. I am a co-founder and principal developer of the open-source library [PyKale](https://github.com/pykale/pykale), offering a spectrum of accessible multi-modal and transfer learning algorithms.
 
