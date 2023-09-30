@@ -1,16 +1,8 @@
 github_users:
   - xianyuanliu
-  # - torvalds
-  # - alshedivat
 
 github_repos:
   - pykale/pykale
   - xianyuanliu/CTAN
   - xianyuanliu/EgoAction
-  # - alshedivat/al-folio
-  # - twbs/bootstrap
-  # - jekyll/jekyll
-  # - jquery/jquery
-  # - FortAwesome/Font-Awesome
-  # - jpswalsh/academicons
-  # - mathjax/MathJax
+  - xianyuanliu/xianyuanliu.github.io

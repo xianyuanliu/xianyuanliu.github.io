@@ -23,7 +23,7 @@ I am a Senior AI Research Engineer at the [Department of Computer Science](https
 
 My current research focuses on developing machine learning methods and tools for healthcare and multi-modal learning. I am a co-founder and principal developer of the open-source library [PyKale](https://github.com/pykale/pykale), offering a spectrum of accessible multi-modal and transfer learning algorithms.
 
-I received the Ph.D. degree in Signal and Information Processing from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023. Prior to that, I received the B.Eng. degree in Measuring Control Technology and Instruments from [Southeast University](https://www.seu.edu.cn/english/) in 2016. I was a visiting researcher with the Department of Computer Science, University of Sheffield, from 2019 to 2021.
+<!-- I received the Ph.D. degree in Signal and Information Processing from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023. Prior to that, I received the B.Eng. degree in Measuring Control Technology and Instruments from [Southeast University](https://www.seu.edu.cn/english/) in 2016. I was a visiting researcher with the Department of Computer Science, University of Sheffield, from 2019 to 2021. -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
