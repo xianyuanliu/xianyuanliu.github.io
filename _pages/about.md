@@ -8,7 +8,7 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  # address: >
+  # more_info: >
   #   <p>136, Regent Court</p>
   #   <p>211 Portobello</p>
   #   <p>Sheffield, S1 4DP</p>
