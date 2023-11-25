@@ -24,9 +24,3 @@ I currently serve as a Senior AI Research Engineer at the [Department of Compute
 My current research focuses on developing machine learning methods and tools for healthcare and multi-modal learning. I take pride in co-founding and being the principal developer of [PyKale](https://github.com/pykale/pykale),  an open-source library that delivers a diverse range of easily accessible multi-modal and transfer learning algorithms.
 
 I received my Ph.D. degree in Signal and Information Processing from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023. My academic journey began with a B.Eng. degree in Measuring Control Technology and Instruments from [Southeast University](https://www.seu.edu.cn/english/) in 2016. Additionally, I was a visiting researcher at the Department of Computer Science, University of Sheffield from 2019 to 2021.
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
