@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Bio
+title: About
 permalink: /
 subtitle: Senior AI Research Engineer, @<a href='https://www.sheffield.ac.uk'>The University of Sheffield</a>.
 
@@ -13,10 +13,9 @@ profile:
   #   <p>211 Portobello</p>
   #   <p>Sheffield, S1 4DP</p>
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I currently serve as a Senior AI Research Engineer at the [School of Computer Science](https://www.sheffield.ac.uk/dcs/), and as the Assistant Head of AI Research Engineering at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), both at the [University of Sheffield](https://www.sheffield.ac.uk/).
