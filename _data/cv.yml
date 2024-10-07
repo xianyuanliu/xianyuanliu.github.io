@@ -32,13 +32,6 @@
       institution: Department of Computer Science, University of Sheffield, Sheffield, UK
       year: 2019 - 2021
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/pykale/pyakle">PyKale</a>
-      year: 2020-now
-      description: A Python library for knowledge-aware machine learning from multiple sources, particularly from multiple modalities for multimodal learning and from multiple domains for transfer learning.
-
 - title: Talks
   type: time_table
   contents:
@@ -55,7 +48,12 @@
       description: <a href="https://multimodalai.github.io/multimodalai-sprint23/">First Multimodal AI Research Sprint</a>, the Alan Turing Institute, London, UK
       year: 2023
 
-
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/pykale/pyakle">PyKale</a>
+      year: 2020-now
+      description: A Python library for knowledge-aware machine learning from multiple sources, particularly from multiple modalities for multimodal learning and from multiple domains for transfer learning.
 
 - title: Funding and Awards
   type: time_table
