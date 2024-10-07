@@ -1,7 +1,6 @@
 - title: Courses
   type: time_table
   contents:
-    - title: <a href="http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/msc/com6012.html">COM6012 Scalable Machine Learning</a>
-      description: Guest Lecture
+    - title: <a href="http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/msc/com6012.html">COM6012 Scalable Machine Learning</a> (Guest Lecture)
       institution: University of Sheffield, Sheffield, UK
       year: 2024
