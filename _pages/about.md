@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I currently serve as a Senior AI Research Engineer at the [Department of Computer Science](https://www.sheffield.ac.uk/dcs/), and as the Assistant Head of AI Research Engineering at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), both at the [University of Sheffield](https://www.sheffield.ac.uk/).
+I currently serve as a Senior AI Research Engineer at the [School of Computer Science](https://www.sheffield.ac.uk/dcs/), and as the Assistant Head of AI Research Engineering at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), both at the [University of Sheffield](https://www.sheffield.ac.uk/).
 
 My current research focuses on developing machine learning methods and tools for materials science and multimodal learning. I take pride in co-founding and being the principal developer of [PyKale](https://github.com/pykale/pykale),  an open-source library that delivers a diverse range of easily accessible multi-modal and transfer learning algorithms.
 
