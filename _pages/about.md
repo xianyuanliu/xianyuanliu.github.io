@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Bio
+title: About
 permalink: /
 subtitle: Senior AI Research Engineer, @<a href='https://www.sheffield.ac.uk'>The University of Sheffield</a>.
 
