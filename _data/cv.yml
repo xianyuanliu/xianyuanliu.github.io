@@ -3,14 +3,12 @@
   contents:
     - name: Full Name
       value: Xianyuan Liu
-    # - name: Date of Birth
-      # value: 14th March 1879
     - name: Email
       value: <a href="mailto:xianyuan.liu@sheffield.ac.uk">xianyuan.liu@sheffield.ac.uk</a>
     - name: Address
       value: Regent Court, 211 Portobello, Sheffield, UK, S1 4DP
     - name: Interests
-      value: Machine Learning for Healthcare, Multi-modal Learning, AI Engnineering, and Video Domain Adaptation 
+      value: Machine Learning, AI for Materials Discovery, Multimodal AI, AI Engnineering, Computer Vision
     - name: Languages
       value: Chinese, English
 
@@ -20,19 +18,9 @@
     - title: PhD in Signal and Information Processing
       institution: University of Chinese Academy of Sciences, Beijing, China
       year: 2016 - 2023
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
     - title: BEng in Measuring Control Technology and Instruments
       institution: Southeast University, Nanjing, China
       year: 2012 - 2016
-      # description:
-      #   - Description 1.
-      #   - Description 2.
 
 - title: Experience
   type: time_table
@@ -40,19 +28,9 @@
     - title: Senior AI Research Engineer
       institution: Department of Computer Science, University of Sheffield, Sheffield, UK
       year: 2023 - now
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
     - title: Visiting Researcher
       institution: Department of Computer Science, University of Sheffield, Sheffield, UK
       year: 2019 - 2021
-      # description:
-      #   - Description 1.
-      #   - Description 2.
 
 - title: Open Source Projects
   type: time_table
@@ -61,32 +39,33 @@
       year: 2020-now
       description: A Python library for knowledge-aware machine learning from multiple sources, particularly from multiple modalities for multimodal learning and from multiple domains for transfer learning.
 
+- title: Talks
+  type: time_table
+  contents:
+    - title: Molecular Representation Learning
+      institution: <a href="https://www.sheffield.ac.uk/machine-intelligence/events/ai-bioscience-symposium">AI in Biosciences Symposium</a>, University of Sheffield, Sheffield, UK
+      year: 2024
+    - title: Multimodal AI for Engineering
+      institution: <a href="https://multimodalai.github.io/multimodalai-forum24/">First Multimodal AI Community Forum</a>, AI UK Fringe Event, Online
+      year: 2024
+    - title: Digital Materials Discovery
+      institution: <a href="https://www.sheffield.ac.uk/machine-intelligence/events/shefai-community-meeting-7">Shef.AI Community Meeting 7</a>, University of Sheffield, Sheffield, UK
+      year: 2024
+    - title: Exploring Multimodal AI beyond Vision and Language
+      institution: <a href="https://multimodalai.github.io/multimodalai-sprint23/">First Multimodal AI Research Sprint</a>, the Alan Turing Institute, London, UK
+      year: 2023
+
+
+
 - title: Funding and Awards
   type: time_table
   contents:
     - year: 2019
-      items: 
+      items:
         - China Scholarship Council Scholarship, State Scholarship Fund
     - year: 2018
-      items: 
+      items:
         - Excellent Student Leader Awards, University of Chinese Academy of Sciences
     - year: 2018
-      items: 
+      items:
         - Triple A Student Awards, University of Chinese Academy of Sciences
-    
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
