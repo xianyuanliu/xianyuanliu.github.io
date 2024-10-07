@@ -43,17 +43,19 @@
   type: time_table
   contents:
     - title: Molecular Representation Learning
-      institution: <a href="https://www.sheffield.ac.uk/machine-intelligence/events/ai-bioscience-symposium">AI in Biosciences Symposium</a>, University of Sheffield, Sheffield, UK
+      description: <a href="https://www.sheffield.ac.uk/machine-intelligence/events/ai-bioscience-symposium">AI in Biosciences Symposium</a>, University of Sheffield, Sheffield, UK
       year: 2024
     - title: Multimodal AI for Engineering
-      institution: <a href="https://multimodalai.github.io/multimodalai-forum24/">First Multimodal AI Community Forum</a>, AI UK Fringe Event, Online
+      description: <a href="https://multimodalai.github.io/multimodalai-forum24/">First Multimodal AI Community Forum</a>, AI UK Fringe Event, Online
       year: 2024
     - title: Digital Materials Discovery
-      institution: <a href="https://www.sheffield.ac.uk/machine-intelligence/events/shefai-community-meeting-7">Shef.AI Community Meeting 7</a>, University of Sheffield, Sheffield, UK
+      description: <a href="https://www.sheffield.ac.uk/machine-intelligence/events/shefai-community-meeting-7">Shef.AI Community Meeting 7</a>, University of Sheffield, Sheffield, UK
       year: 2024
     - title: Exploring Multimodal AI beyond Vision and Language
-      institution: <a href="https://multimodalai.github.io/multimodalai-sprint23/">First Multimodal AI Research Sprint</a>, the Alan Turing Institute, London, UK
+      description: <a href="https://multimodalai.github.io/multimodalai-sprint23/">First Multimodal AI Research Sprint</a>, the Alan Turing Institute, London, UK
       year: 2023
+
+
 
 - title: Funding and Awards
   type: time_table
