@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior AI Research Engineer, @<a href='https://www.sheffield.ac.uk'>The University of Sheffield</a>.
+subtitle: Academic Fellow in Multimodal AI (starting March 2026); currently Senior AI Research Engineer @<a href='https://www.sheffield.ac.uk'>The University of Sheffield</a>.
 
 profile:
   align: left
@@ -19,8 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I currently serve as a Senior AI Research Engineer at the [School of Computer Science](https://www.sheffield.ac.uk/dcs/), and as the Assistant Head of AI Research Engineering at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), both at the [University of Sheffield](https://www.sheffield.ac.uk/).
+I am currently a Senior AI Research Engineer and will soon take up the role of Academic Fellow in Multimodal AI (from March 2026) in the [School of Computer Science](https://www.sheffield.ac.uk/dcs/), [University of Sheffield](https://www.sheffield.ac.uk/). I am also the Assistant Head of AI Research Engineering at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence).
 
-My current research focuses on developing machine learning methods and tools for materials science and multimodal learning. I take pride in co-founding and being the principal developer of [PyKale](https://github.com/pykale/pykale),  an open-source library that delivers a diverse range of easily accessible multimodal and transfer learning algorithms.
+My research focuses on developing machine learning methods and tools for materials science and multimodal learning. In particular, I am using multimodal AI and large language models to construct new datasets and benchmarks for materials research, and to develop multimodal AI methods for improved materials property prediction using both computational and experimental data.
 
-I received my Ph.D. degree in Signal and Information Processing from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023. My academic journey began with a B.Eng. degree in Measuring Control Technology and Instruments from [Southeast University](https://www.seu.edu.cn/english/) in 2016. Additionally, I was a visiting researcher at the Department of Computer Science, University of Sheffield from 2019 to 2021.
+I am a co-founder and principal developer of [PyKale](https://github.com/pykale/pykale), an open-source library that delivers accessible multimodal and transfer learning algorithms. Pykale is featured in the [PyTorch Landscape](https://landscape.pytorch.org/?item=training--multimodal--pykale) under multimodal training.
+
+<!-- I received my Ph.D. degree in Signal and Information Processing from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023. My academic journey began with a B.Eng. degree in Measuring Control Technology and Instruments from [Southeast University](https://www.seu.edu.cn/english/) in 2016. Additionally, I was a visiting researcher at the Department of Computer Science, University of Sheffield from 2019 to 2021. -->
