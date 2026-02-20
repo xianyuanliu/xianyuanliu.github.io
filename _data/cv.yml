@@ -28,19 +28,19 @@
 - title: Selected Talks
   type: time_table
   contents:
-    - title: Mining the Literature: Extracting Complex Concentrated Alloy Properties with Large Language Models
+    - title: "Mining the Literature: Extracting Complex Concentrated Alloy Properties with Large Language Models"
       description: <a href="https://www.philanthropy.cam.ac.uk/events/armourers-and-brasiers-cambridge-forum-2025">Armourers and Brasiers' Cambridge Forum Brief Encounters</a>, University of Cambridge, Cambridge, UK
       year: 2025
-    - title: Molecular Representation Learning
+    - title: "Molecular Representation Learning"
       description: <a href="https://www.sheffield.ac.uk/machine-intelligence/events/ai-bioscience-symposium">AI in Biosciences Symposium</a>, University of Sheffield, Sheffield, UK
       year: 2024
-    - title: Multimodal AI for Engineering
+    - title: "Multimodal AI for Engineering"
       description: <a href="https://multimodalai.github.io/multimodalai-forum24/">First Multimodal AI Community Forum</a>, AI UK Fringe Event, Online
       year: 2024
-    - title: Digital Materials Discovery
+    - title: "Digital Materials Discovery"
       description: <a href="https://www.sheffield.ac.uk/machine-intelligence/events/shefai-community-meeting-7">Shef.AI Community Meeting 7</a>, University of Sheffield, Sheffield, UK
       year: 2024
-    - title: Exploring Multimodal AI beyond Vision and Language
+    - title: "Exploring Multimodal AI beyond Vision and Language"
       description: <a href="https://multimodalai.github.io/multimodalai-sprint23/">First Multimodal AI Research Sprint</a>, the Alan Turing Institute, London, UK
       year: 2023
 
