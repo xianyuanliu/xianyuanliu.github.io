@@ -25,9 +25,12 @@
       institution: Department of Computer Science, University of Sheffield, UK
       year: 2019.09 - 2021.09
 
-- title: Talks
+- title: Selected Talks
   type: time_table
   contents:
+    - title: Mining the Literature: Extracting Complex Concentrated Alloy Properties with Large Language Models
+      description: <a href="https://www.philanthropy.cam.ac.uk/events/armourers-and-brasiers-cambridge-forum-2025">Armourers and Brasiers' Cambridge Forum Brief Encounters</a>, University of Cambridge, Cambridge, UK
+      year: 2025
     - title: Molecular Representation Learning
       description: <a href="https://www.sheffield.ac.uk/machine-intelligence/events/ai-bioscience-symposium">AI in Biosciences Symposium</a>, University of Sheffield, Sheffield, UK
       year: 2024
