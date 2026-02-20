@@ -5,8 +5,8 @@
 #      value: Xianyuan Liu
     - name: Email
       value: <a href="mailto:xianyuan.liu@sheffield.ac.uk">xianyuan.liu@sheffield.ac.uk</a>
-    # - name: Address
-    #   value: Regent Court, 211 Portobello, Sheffield, UK, S1 4DP
+    - name: Address
+      value: Regent Court, 211 Portobello, Sheffield, UK, S1 4DP
     - name: Interests
       value: Machine Learning, Digital Materials Discovery, Multimodal AI, AI Engnineering, Computer Vision
     # - name: Languages
@@ -23,7 +23,7 @@
       year: 2023 - 2026
     - title: Visiting Researcher
       institution: Department of Computer Science, University of Sheffield, UK
-      year: 2019 - 2021.09
+      year: 2019 - 2021
 
 - title: Selected Talks
   type: time_table
