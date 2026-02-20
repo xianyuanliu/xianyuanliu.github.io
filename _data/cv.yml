@@ -5,22 +5,25 @@
 #      value: Xianyuan Liu
     - name: Email
       value: <a href="mailto:xianyuan.liu@sheffield.ac.uk">xianyuan.liu@sheffield.ac.uk</a>
-    - name: Address
-      value: Regent Court, 211 Portobello, Sheffield, UK, S1 4DP
+    # - name: Address
+    #   value: Regent Court, 211 Portobello, Sheffield, UK, S1 4DP
     - name: Interests
       value: Machine Learning, Digital Materials Discovery, Multimodal AI, AI Engnineering, Computer Vision
-    - name: Languages
-      value: Chinese, English
+    # - name: Languages
+    #   value: Chinese, English
 
 - title: Experience
   type: time_table
   contents:
+    - title: Academic Fellow in Multimodal AI
+      institution: School of Computer Science, University of Sheffield, UK
+      year: Starting in 2026.03
     - title: Senior AI Research Engineer
-      institution: School of Computer Science, University of Sheffield, Sheffield, UK
-      year: 2023 - now
+      institution: School of Computer Science, University of Sheffield, UK
+      year: 2023.09 - now
     - title: Visiting Researcher
-      institution: Department of Computer Science, University of Sheffield, Sheffield, UK
-      year: 2019 - 2021
+      institution: Department of Computer Science, University of Sheffield, UK
+      year: 2019.09 - 2021.09
 
 - title: Talks
   type: time_table
@@ -55,15 +58,15 @@
       institution: Southeast University, Nanjing, China
       year: 2012 - 2016
 
-- title: Funding and Awards
-  type: time_table
-  contents:
-    - year: 2019
-      items:
-        - China Scholarship Council Scholarship, State Scholarship Fund
-    - year: 2018
-      items:
-        - Excellent Student Leader Awards, University of Chinese Academy of Sciences
-    - year: 2018
-      items:
-        - Triple A Student Awards, University of Chinese Academy of Sciences
+# - title: Funding and Awards
+#   type: time_table
+#   contents:
+#     # - year: 2019
+#     #   items:
+#     #     - China Scholarship Council Scholarship, State Scholarship Fund
+#     - year: 2018
+#       items:
+#         - Excellent Student Leader Awards, University of Chinese Academy of Sciences
+#     - year: 2018
+#       items:
+#         - Triple A Student Awards, University of Chinese Academy of Sciences
