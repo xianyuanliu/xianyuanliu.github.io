@@ -23,6 +23,6 @@ I am currently a Senior AI Research Engineer and will soon take up the role of A
 
 My research focuses on developing machine learning methods and tools for materials science and multimodal learning. In particular, I use multimodal AI and large language models to construct new datasets and benchmarks for materials research, and develop multimodal AI methods for improved materials property prediction using computational/experimental data.
 
-I am a co-founder and principal developer of [PyKale](https://github.com/pykale/pykale), an open-source library that delivers accessible multimodal and transfer learning algorithms. Pykale is featured in the [PyTorch Landscape](https://landscape.pytorch.org/?item=training--multimodal--pykale) under multimodal training.
+I am a co-founder and principal developer of [PyKale](https://github.com/pykale/pykale), an open-source library that delivers accessible multimodal machine learning algorithms, which is featured in the [PyTorch Landscape](https://landscape.pytorch.org/?item=training--multimodal--pykale) under multimodal training.
 
 <!-- I received my Ph.D. degree in Signal and Information Processing from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2023. My academic journey began with a B.Eng. degree in Measuring Control Technology and Instruments from [Southeast University](https://www.seu.edu.cn/english/) in 2016. Additionally, I was a visiting researcher at the Department of Computer Science, University of Sheffield from 2019 to 2021. -->
