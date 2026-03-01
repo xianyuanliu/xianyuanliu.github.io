@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Academic Fellow in Multimodal AI (starting March 2026) @<a href='https://www.sheffield.ac.uk'>The University of Sheffield</a>.
+subtitle: Academic Fellow in Multimodal AI @<a href='https://www.sheffield.ac.uk'>The University of Sheffield</a>.
 
 profile:
   align: left
@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Senior AI Research Engineer and will soon take up the role of Academic Fellow in Multimodal AI (from March 2026) in the [School of Computer Science](https://www.sheffield.ac.uk/dcs/), [University of Sheffield](https://www.sheffield.ac.uk/). I am also the Assistant Head of AI Research Engineering at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence).
+I am an Academic Fellow in Multimodal AI in the [School of Computer Science](https://www.sheffield.ac.uk/dcs/), [University of Sheffield](https://www.sheffield.ac.uk/), and the Assistant Head of AI Research Engineering at the [Centre for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence).
 
-My research focuses on developing machine learning methods and tools for materials science and multimodal learning. In particular, I use multimodal AI and large language models to construct new datasets and benchmarks for materials research, and develop multimodal AI methods for improved materials property prediction using both computational and experimental data.
+My research focuses on developing machine learning methods and tools for multimodal learning, materials design, and drug discovery. In particular, I use multimodal AI and large language models to construct new datasets and benchmarks for materials research and develop multimodal AI methods for improved materials property prediction using both computational and experimental data.
 
 I am a co-founder and principal developer of [PyKale](https://github.com/pykale/pykale), an open-source library that delivers accessible multimodal machine learning algorithms, which is featured in [PyTorch Landscape](https://landscape.pytorch.org/?item=training--multimodal--pykale) for multimodal training.
 
