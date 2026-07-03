@@ -28,6 +28,9 @@
 - title: Selected Talks
   type: time_table
   contents:
+    - title: "Deployment-Centric Multimodal AI for Materials Discovery"
+      description: <a href="https://www.iaccr.org/conference/171.html">AI and Carbon Capture and Utilisation Workshop</a>, Swansea University, Swansea, UK
+      year: 2026
     - title: "Mining the Literature: Extracting Complex Concentrated Alloy Properties with Large Language Models"
       description: <a href="https://www.philanthropy.cam.ac.uk/events/armourers-and-brasiers-cambridge-forum-2025">Armourers and Brasiers' Cambridge Forum Brief Encounters</a>, University of Cambridge, Cambridge, UK
       year: 2025
