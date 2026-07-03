@@ -8,7 +8,7 @@
     - name: Address
       value: Regent Court, 211 Portobello, Sheffield, UK, S1 4DP
     - name: Interests
-      value: Machine Learning, Digital Materials Discovery, Multimodal AI, AI Engnineering, Computer Vision
+      value: Machine Learning, Multimodal AI, Digital Materials Discovery, AI Engineering, Computer Vision
     # - name: Languages
     #   value: Chinese, English
 
@@ -17,7 +17,7 @@
   contents:
     - title: Academic Fellow in Multimodal AI
       institution: School of Computer Science, University of Sheffield, UK
-      year: From 2026.03
+      year: 2026 - present
     - title: Senior AI Research Engineer
       institution: School of Computer Science, University of Sheffield, UK
       year: 2023 - 2026
